@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Lector de EPUB</title>
+  <!-- Incluir epub.js vía CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+  <link rel="stylesheet" href="./css/libro.css">
+
+</head>
+<body>
+  <h2>Lector de EPUB</h2>
+  
+  <div id="viewer"></div>
+  <button id="volverIndex">Volver a index</button>
+  <button id="prevPage">Página anterior</button>
+  <button id="nextPage">Página siguiente</button>
+  <div id="numeroPagina"></div>
+
+  
+
+  <!-- Archivo JS para configurar el lector -->
+  <script src="./JS/libro.js"></script>
+</body>
+</html>

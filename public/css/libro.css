@@ -1,0 +1,69 @@
+ /* Estilos generales */
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  /* Contenedor del lector */
+  #viewer {
+    width: 80%;
+    height: 70vh;
+    border: 2px solid #ccc;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Botones de navegación */
+  button {
+    margin: 10px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Estilos individuales para botones */
+  #prevPage {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  #prevPage:hover {
+    background-color: #0056b3;
+  }
+  
+  #nextPage {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  #nextPage:hover {
+    background-color: #1e7e34;
+  }
+  
+  #volverIndex {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  #volverIndex:hover {
+    background-color: #a71d2a;
+  }
+  
+  /* Estilo para el número de página */
+  #numeroPagina {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }

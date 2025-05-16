@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pagina-web-php-1731940242594",
+  "private_key_id": "0eab40d16bac0ffac6d09960614b2b89a2408b4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDUhWfXFlw2cQU8\nvxfWGd9dyXqmrnFYK1MlJLVRO3kme3/ERF9341MCF6zGxaYd2hfQAK72MyUWGCh8\nfTrirYUawL1XgaUzLxuw8PnRZouNLFuhLAy9q01R/etLmvmQ0qDPSby6DBwkNygn\nmsMX/a+hj7roZvyfMnaSkWD9fiq5JUCneYKLpJLTUVnaOKPPCiRLfR1WSnQVcTM/\nVCIxXogkzXHYHsGrx2kg+lCJUZKRdvsZWSVIm2tITlfy3eHwgo8gLLrInnpZoZVZ\nn39pkvWrFy3Yym60ZDKn43HTQpc+Vx7RLBbEJv37vCLL2MuV3Y8tyDzTf9NqKZaU\nJQCOm6tjAgMBAAECggEAFzu7uHCXWtRMRZyBLJozfdCoT09EJjwboN88e0mh2v/R\nXfw45lBnI2lsgrvaMeqag9YvSncY7NYYnFN3Jo+LElD+jMcoRPTiIBvtaQ5pieDO\n5ksnMW0SzOM83/fB+iqCA2daRzSftviDXqEKsbVoMqTAmDukuSVj1RjTnk2MD3q8\nwOat2NjZqDY3SIXU/qLCf/GpzKi2nMdh6Lj9AZTgLMKtLys96e0SpHFDJS1iRLjn\nCQ0j9oohKHtVIfCHKMTz4xAlg2XeWlw+mF25MnHRgSsGDf0iS5D/AVsoFAX7pVBV\nBbCWK9x9f4hYmUp5kT1tdaoIWcKQx0nHF1RjtfayIQKBgQDv97rnE22Giy3I2zGK\nOHzYh5dqVltSVHGwxl2lm4+kypCFBdMysE6niEqEcTzoyJJigwXYBH4Y36COKq1t\numw1wqqL3qpNVP+ZHMBEMypuI6aBcWABmZ9vwIgM/FsoBGOPk4hDoO3LVZbSi0hK\nTKKtZH1RLQNk2gmDGUnYqTwoKQKBgQDiuD62KmRcTg0M1kExGyuE+yGkGbCOrgl9\nXwOS6JbGhMx+ayMAQVN7Am4E/FvDgdeG9ixXvBh5KsBn58OBxDiIMi16/UVFI+NK\ng6fK5HP3EcuNkVhcKrra+UnDV13Je+M6/I1d7JpcdA59GHW5TGkFdFGjK/GoW2Pz\nhU7c64EYqwKBgQDDShHCMo5k+2mEV9ZmTXhU42w3bxYc13o6ygS2XPY2v1+D0mzB\niLhKIWG7jUhrjaeMImMkHOveJEhOyq6faSLdUZJoCAsCqlTk74ANQLKcNckw+OqQ\nAsy9LqvKHam11HSOCRvRJevAGeSHbjCjvuB5ShmucXqcndE17uOpPnklmQKBgG4V\n5G1znBOt2mxXRIRhmvoRLr6Nsss0+mqjzgpxYXS3WswvnWksTyq1fVJybuQ5kbt4\noQNg08lR1ucdBDNoYcLQCoFjpVTzHhQ6ZSkBUMWxIFN3NZ5bKSvWS9jL/UAuJaGo\nq8PldPZbbAWV8OOulHgPiOxgFBEZfyjpm+dtetvNAoGBAKIrL+0cCxY6Ck9u9l7p\nlsbICXVXygr6pvbXJY0bWUmk7gP9Ik23LgsqtE5woUKTN4AWh1Hr3AJUoo+mJn6+\nK+lIACAWDFiE2QPi7gDUd6J0z43KqgKd5F/wHlao6cmEqtChooK7LNyYMWVy4ePf\nD8vawbWLZXxB8w7Viss5M3VX\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-practica-client@pagina-web-php-1731940242594.iam.gserviceaccount.com",
+  "client_id": "102677993914278651616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-practica-client%40pagina-web-php-1731940242594.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
